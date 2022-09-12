@@ -14,4 +14,4 @@
 
 'use strict';
 
-module.exports = { now:async function() { return 'v0.0.3:' + Date.now(); } };
+module.exports = { now:async function() { return 'v0.0.1:' + Date.now(); } };
