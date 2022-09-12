@@ -1,0 +1,22 @@
+{
+  "name": "cr-node-common",
+  "version": "0.0.1",
+  "description": "carbonrecord.org",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonrecord/cr-node-common.git"
+  },
+  "keywords": [
+    "carbonrecord"
+  ],
+  "author": "carbonrecord.org",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/carbonrecord/cr-node-common/issues"
+  },
+  "homepage": "https://github.com/carbonrecord/cr-node-common#readme"
+}
