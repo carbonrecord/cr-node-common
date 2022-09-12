@@ -12,6 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-module.exports = {
-		now:async function() { return 'v0.0.3:' + Date.now(); }
-	};
+'use strict';
+
+module.exports = { now:async function() { return 'v0.0.3:' + Date.now(); } };
